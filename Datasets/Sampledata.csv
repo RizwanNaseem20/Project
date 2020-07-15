@@ -1,0 +1,64 @@
+ids,Text,Result
+1,I am not flying to England.,Negative
+2,I am sailing to England.,Positive
+3,That isn't the way to Nashville.,Negative
+4,They are not from Ecuador.,Negative
+5,That is the way to Memphis.,positive
+6,They are from Venezuela.,Positive
+7,He wasn't eating white rice.,Negative
+8,He was eating cauliflower rice.,Positive
+9,We were not sad when he moved away.,Negative
+10,We were happy when he moved away.,Positive
+11,They don't practice yoga.,Negative
+12,They practice yoga.,Positive
+13,She did not like Bikhram yoga.,Negative
+14,She likes Yin yoga.,Positive
+15,He doesn't have to commute to work.,Negative
+16,He has to commute to work.,Positive
+17,They will not be joining us for dinner tonight.,Negative
+18,They will be joining us for dinner tonight.,Positive
+19,She won't be attending the Met Gala this year.,Negative
+20,She will be attending the Met Gala this year.,Positive
+21,These aren't pistachios.,Negative
+22,These are macadamia nuts.,Positive
+23,They weren't playing poker.,Negative
+24,They were playing gin rummy.,Positive
+25,I like going to the cinema.,positive
+26,Mum is going to cook spinach tonight.,Positive
+27,Do you think they are going to win the match?,positive
+28,Are you going to the United States?,positive
+29,He doesn't like playing video games.,Negative
+30,Did the burglar steal anything valuable?,Negative
+31,He does not like his job.,Negative
+32,Is Grandma's situation serious?,Negative
+33,Mary doesn’t drink coffee.,Negative
+34,My brothers don’t speak Chinese.,Negative
+35,Jim's best friends don’t live near him.,Negative
+36,I didn’t go to the store last week.,Negative
+37,Lions do not eat grass.,Negative
+38,Esther can’t go tomorrow.,Negative
+39,Some people won’t eat spicy foods.,Negative
+40,Bill hasn’t learned to type.,Negative
+41,You shouldn’t cheat on tests.,Negative
+42,Jenny isn’t fat.,Negative
+43,You are not lazy.,Negative
+44,Your brothers aren’t lazy either.,Negative
+45,Jim and Sue aren’t working today.,Negative
+46,They weren’t feeling well.,Negative
+47,"In fact, they haven’t been feeling well all week.",Negative
+48,Larry won’t be able to go.,Negative
+49,Marie is a published author.,Positive
+50,"In three years, everyone will be happy.",Positive
+51,Nora Roberts is the most prolific romance writer the world has ever known.,Positive
+52,She has written more than 225 books.,Positive
+53,"If you walk into Knoxville, you'll find a shop named Rala.",Positive
+54,There are more than 850 miles of hiking trails in the Great Smoky Mountains.,Positive
+55,Harrison Ford is 6'1".,Positive
+56,"According to Reader's Digest, in the original script of Return of The Jedi, Han Solo died.",Positive
+57,"Kate travels to Doolin, Ireland every year for a writers' conference.",Positive
+58,Fort Stevens was decommissioned by the United States military in 1947.,Positive
+59,"Today, it is filled with ghosts.",Positive
+60,She loves to write short stories in the local coffee shop.,Positive
+61,"Yesterday, he traded in his Android for an iPhone.",Positive
+62,"If you take a cruise to Alaska aboard Holland America, you'll stop in Victoria, British Columbia.",Positive
+63,Butchart Gardens contains over 900 varieties of plants.,Positive
